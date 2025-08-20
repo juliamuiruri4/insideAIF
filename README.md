@@ -8,7 +8,7 @@ Check out what's new in [Azure AI Foundry](https://ai.azure.com)! In this [serie
 
 | Episode  | Video Link | Sample Code |
 |--------------|------------|-------------|
-| Model Router + GPT-4 Models | [Watch Video](https://youtu.be/2NL2XpigH0A?si=yCdz_kyx16VIX0Mk) | [View Sample](./samples/model-router) |
+| Model Router + GPT-5 Models | [Watch Video](https://youtu.be/2NL2XpigH0A?si=yCdz_kyx16VIX0Mk) | [View Sample](./samples/model-router) |
 | Browser Automation Tool (Preview) | [Watch Video](https://youtu.be/FBQRc-M18ws?si=uhhDtHJmKdCki-c2) | [View Sample](./samples/browser-automation) |
 | Mistral Document AI | [Watch Video](https://example.com/video3) | [View Sample](./samples/mistral-document-AI) |
 
@@ -16,4 +16,4 @@ Check out what's new in [Azure AI Foundry](https://ai.azure.com)! In this [serie
 
 Join the Discord: https://aka.ms/insideAIF/discord 
 
-Hop on Forum: https://aka.ms/insideAIF/forum
+Hop onto the Forum: https://aka.ms/insideAIF/forum
