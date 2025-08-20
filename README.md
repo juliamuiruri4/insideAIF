@@ -1,57 +1,19 @@
-# Project Name
+# Inside Azure AI Foundry Samples
 
-(short, 1-3 sentenced, description of the project)
+![Inside Azure AI Foundry playlist image.](Images/thumbnail-playlist.png)
 
-## Features
+Check out what's new in Azure AI Foundry! In this series, we dive deep into the latest AI models, tools, and platform features — with practical demos and technical walkthroughs that show you how to integrate them into your workflows. Perfect for developers who want to see capabilities in action before deploying them in real projects.
 
-This project framework provides the following features:
+## Episodes
 
-* Feature 1
-* Feature 2
-* ...
+| Episode  | Video Link | Sample Code |
+|--------------|------------|-------------|
+| Model Router + GPT-4 Models | [Watch Video](https://youtu.be/2NL2XpigH0A?si=yCdz_kyx16VIX0Mk) | [View Sample](./samples/episode1) |
+| Browser Automation Tool (Preview) | [Watch Video](https://youtu.be/FBQRc-M18ws?si=uhhDtHJmKdCki-c2) | [View Sample](./samples/episode2) |
+| Mistral Document AI | [Watch Video](https://example.com/video3) | [View Sample](./samples/episode3) |
 
-## Getting Started
+## Discord
 
-### Prerequisites
+Join the Discord: https://aka.ms/insideAIF/discord 
 
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+Hop on Forum: https://aka.ms/insideAIF/forum
