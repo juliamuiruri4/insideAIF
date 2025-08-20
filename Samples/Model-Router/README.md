@@ -12,7 +12,7 @@ Learn more about Model Router: [aka.ms/insideAIF/model-router](https://aka.ms/in
 
 - An [Azure AI Foundry](https://ai.azure.com) project
 
-## Run the Sample
+## Run the Samples
 
 ### Basic call to the chat completion API
 
