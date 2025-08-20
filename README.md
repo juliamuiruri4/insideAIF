@@ -12,7 +12,7 @@ You can watch all episodes at [aka.ms/insideAIF](https://aka.ms/insideAIF)!
 |--------------|------------|-------------|
 | Model Router + GPT-5 Models | [Watch Video](https://youtu.be/2NL2XpigH0A?si=yCdz_kyx16VIX0Mk) | [View Sample](./samples/model-router) |
 | Browser Automation Tool (Preview) | [Watch Video](https://youtu.be/FBQRc-M18ws?si=uhhDtHJmKdCki-c2) | [View Sample](./samples/browser-automation) |
-| Mistral Document AI | [Watch Video](https://example.com/video3) | [View Sample](./samples/mistral-document-AI) |
+| Mistral Document AI | [Watch Video](https://youtu.be/MUu9o8tDwi0?si=a78S_W-dpQrCOvP5) | [View Sample](./samples/mistral-document-AI) |
 
 ## Discord
 
