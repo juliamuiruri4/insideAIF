@@ -11,7 +11,7 @@ try:
     # Import docAI-pdf.py
     spec1 = importlib.util.spec_from_file_location("docAI_pdf", "docAI-pdf.py")
     docAI_pdf = importlib.util.module_from_spec(spec1)
-    spec1.loader.exec_module(docAI-pdf)
+    spec1.loader.exec_module(docAI_pdf)
     process_pdf_with_mistral = docAI_pdf.process_pdf_with_mistral
     
     # Import parse-content-pdf.py
