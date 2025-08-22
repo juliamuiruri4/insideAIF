@@ -11,6 +11,7 @@ Learn more about Model Router: [aka.ms/insideAIF/model-router](https://aka.ms/in
 ## Prerequisites
 
 - An [Azure AI Foundry](https://ai.azure.com) project
+- Model Router model deployment
 
 ## Run the Samples
 

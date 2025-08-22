@@ -8,20 +8,20 @@ from typing import Dict, List
 try:
     import importlib.util
     
-    # Import demo-docAI.py
-    spec1 = importlib.util.spec_from_file_location("demo_docAI", "demo-docAI.py")
-    demo_docAI = importlib.util.module_from_spec(spec1)
-    spec1.loader.exec_module(demo_docAI)
-    process_pdf_with_mistral = demo_docAI.process_pdf_with_mistral
+    # Import docAI-pdf.py
+    spec1 = importlib.util.spec_from_file_location("docAI_pdf", "docAI-pdf.py")
+    docAI_pdf = importlib.util.module_from_spec(spec1)
+    spec1.loader.exec_module(docAI_pdf)
+    process_pdf_with_mistral = docAI_pdf.process_pdf_with_mistral
     
-    # Import demo-shopping-list.py
-    spec2 = importlib.util.spec_from_file_location("demo_shopping_list", "demo-shopping-list.py")
-    demo_shopping_list = importlib.util.module_from_spec(spec2)
-    spec2.loader.exec_module(demo_shopping_list)
-    extract_recipe_components = demo_shopping_list.extract_recipe_components
-    create_shopping_list = demo_shopping_list.create_shopping_list
-    extract_cooking_temps_and_times = demo_shopping_list.extract_cooking_temps_and_times
-    generate_summary = demo_shopping_list.generate_summary
+    # Import parse-content-pdf.py
+    spec2 = importlib.util.spec_from_file_location("parse_content_pdf", "parse-content-pdf.py")
+    parse_content_pdf = importlib.util.module_from_spec(spec2)
+    spec2.loader.exec_module(parse_content_pdf)
+    extract_recipe_components = parse_content_pdf.extract_recipe_components
+    create_shopping_list = parse_content_pdf.create_shopping_list
+    extract_cooking_temps_and_times = parse_content_pdf.extract_cooking_temps_and_times
+    generate_summary = parse_content_pdf.generate_summary
     
 except ImportError as e:
     st.error(f"❌ Error importing modules: {e}")
@@ -32,7 +32,7 @@ except Exception as e:
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="Recipe PDF to Shopping List",
+    page_title="Recipe",
     page_icon="🍽️",
     layout="wide",
     initial_sidebar_state="expanded"

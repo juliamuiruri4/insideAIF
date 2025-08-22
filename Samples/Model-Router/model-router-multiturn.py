@@ -62,7 +62,7 @@ def main():
         # Call the router deployment
         response = client.chat.completions.create(
             messages=trimmed,
-            max_tokens=int(os.getenv("MAX_OUTPUT_TOKENS", "512")),
+            max_tokens=int(os.getenv("MAX_OUTPUT_TOKENS", "10000")),
             temperature=float(os.getenv("TEMPERATURE", "0.7")),
             top_p=float(os.getenv("TOP_P", "0.95")),
             frequency_penalty=float(os.getenv("FREQ_PENALTY", "0.0")),
