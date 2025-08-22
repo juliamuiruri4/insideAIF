@@ -139,7 +139,7 @@ def main():
         print(f"{first_page_content}...")
         
         print(f"\n🎉 DEMO COMPLETE - Ready for Phase 2!")
-        print(f"▶️  Next: Run 'python shopping-list.py' to see the magic!")
+        print(f"▶️  Next: Run 'python parse-content-pdf.py' to see the magic!")
 
 if __name__ == "__main__":
     main()
