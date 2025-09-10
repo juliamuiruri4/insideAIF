@@ -1,4 +1,4 @@
-# Mistral Document AI
+# Freeform Tool Calling
 
 ![Freeform Tool Calling](../../Images/thumbnail-freeform-tool-calling.png)
 

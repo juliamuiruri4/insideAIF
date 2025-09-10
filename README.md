@@ -13,7 +13,8 @@ You can watch all episodes at [aka.ms/insideAIF](https://aka.ms/insideAIF)!
 | Model Router + GPT-5 Models | [Watch Video](https://youtu.be/2NL2XpigH0A?si=yCdz_kyx16VIX0Mk) | [View Sample](./Samples/Model-Router) |
 | Browser Automation Tool (Preview) | [Watch Video](https://youtu.be/FBQRc-M18ws?si=uhhDtHJmKdCki-c2) | [View Sample](./Samples/Browser-Automation-Tool) |
 | Mistral Document AI | [Watch Video](https://youtu.be/MUu9o8tDwi0?si=a78S_W-dpQrCOvP5) | [View Sample](./Samples/Mistral-Document-AI) |
-| Freeform Tool Calling | [Watch Video](https://aka.ms/insideAIF) | [View Sample](./Samples/Freeform-Tool-Calling) |
+| Freeform Tool Calling | [Watch Video](https://youtu.be/y43sgs-Y8-U?si=g_FD5rxAN_qwyTeU) | [View Sample](./Samples/Freeform-Tool-Calling) |
+| Azure AI Translator API (Public Preview) | [Watch Video](https://aka.ms/insideAIF) | [View Sample](./Samples/Translator-API) |
 
 ## Discord
 
