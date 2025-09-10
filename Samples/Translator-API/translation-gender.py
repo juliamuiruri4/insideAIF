@@ -36,7 +36,7 @@ def translate_text(text, from_lang, to_lang, model_deployment, translation_gende
     return data[0]["translations"][0]["text"]
 
 if __name__ == "__main__":
-    translated_text = translate_text("Your case has been forwarded to the support supervisor, April Gittens. She will contact you today to review the situation.", "en", "fr", "gpt-4o", "male")
+    translated_text = translate_text("Your case has been forwarded to the support supervisor, April Gittens. She will contact you today to review the situation.", "en", "fr", "your-gpt-model-deployment", "male")
     print(translated_text)
 
 
