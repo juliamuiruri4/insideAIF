@@ -36,7 +36,7 @@ def translate_text(text, from_lang, to_lang, model_deployment, translation_tone)
     return data[0]["translations"][0]["text"]
 
 if __name__ == "__main__":
-    translated_text = translate_text("Can you send me the details?", "en", "fr", "gpt-4o", "neutral")
+    translated_text = translate_text("Can you send me the details?", "en", "fr", "your-gpt-model-deployment", "neutral")
     print(translated_text)
 
 

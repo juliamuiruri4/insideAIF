@@ -36,7 +36,7 @@ if __name__ == "__main__":
     targets = [
         {
             "language": "fr",
-            "deploymentName": "gpt-4o"
+            "deploymentName": "your-gpt-model-deployment"
         },
         {
             "language": "es"
