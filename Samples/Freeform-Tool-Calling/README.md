@@ -6,7 +6,7 @@ Freeform tool calling in GPT-5 enables the model to send raw text payloads like 
 
 Try it yourself in Azure AI Foundry and start parsing documents and images: [ai.azure.com](https://ai.azure.com)
 
-Learn more about Mistral Document AI: [aka.ms/insideAIF/freeform-tool-calling](https://aka.ms/insideAIF/freeform-tool-calling)
+Learn more about Freeform Tool Calling with GPT-5: [aka.ms/insideAIF/freeform-tool-calling](https://aka.ms/insideAIF/freeform-tool-calling)
 
 ## Prerequisites
 
