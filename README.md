@@ -15,6 +15,7 @@ You can watch all episodes at [aka.ms/insideAIF](https://aka.ms/insideAIF)!
 | Mistral Document AI | [Watch Video](https://youtu.be/MUu9o8tDwi0?si=a78S_W-dpQrCOvP5) | [View Sample](./Samples/Mistral-Document-AI) | [Watch Episode](https://www.youtube.com/watch?v=tqOecUt_wCc&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=5&pp=iAQB) | [Watch Episode] |
 | Freeform Tool Calling | [Watch Video](https://youtu.be/y43sgs-Y8-U?si=g_FD5rxAN_qwyTeU) | [View Sample](./Samples/Freeform-Tool-Calling) | [Watch Episode](https://www.youtube.com/watch?v=Rr4iSCyE7IY&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=4&pp=iAQB) |
 | Azure AI Translator API (Public Preview) | [Watch Video](https://youtu.be/Xam_QQnb5wQ?si=J91ad6ZMSjp48J2S) | [View Sample](./Samples/Translator-API) | [Watch Episode](https://www.youtube.com/watch?v=gEH2ACNf5b0&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=1) |
+| Foundry Models with GitHub Copilot | [Watch Video](https://youtu.be/pG6d6Wwl9gU) |  | [Watch Episode](https://www.youtube.com/watch?v=BANtEq-0FsE&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=1) |
 
 ## Discord
 
