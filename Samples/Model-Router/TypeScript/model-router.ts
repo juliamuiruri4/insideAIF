@@ -22,7 +22,7 @@ export async function main(): Promise<void> {
 
     const requestBody = {
         messages: messages,
-        max_tokens: 8192,
+        max_tokens: 9321,
         temperature: 0.7,
         top_p: 0.95,
         frequency_penalty: 0,
@@ -34,23 +34,14 @@ export async function main(): Promise<void> {
         body: requestBody,
     });
 
-    // Print the selected model from the response
-    const responseModel = (response as any).body?.model ?? (response as any).body?.result?.model;
-    console.log("Model chosen by the router:", responseModel ?? "(unknown)");
+    // Print the selected model
+    console.log("Model chosen by the router:", (response as any).body?.model ?? "(unknown)");
 
     // Print the model's response
-    const modelResponseContent = (response as any).body?.choices?.[0]?.message?.content ?? (response as any).body?.choices?.[0]?.content ?? "(no model response)";
-    console.log("Model response:", modelResponseContent);
+    console.log("Model response:", (response as any).body?.choices?.[0]?.message?.content);
 
-    // Print usage data and total tokens
-    const usage = (response as any).body?.usage ?? (response as any).body?.result?.usage;
-    if (usage) {
-        console.log("Usage:", JSON.stringify(usage, null, 2));
-        const totalTokens = usage.total_tokens ?? usage.totalTokens ?? usage.total ?? usage.token_count ?? usage.tokens;
-        console.log("Total tokens:", totalTokens ?? "(unknown)");
-    } else {
-        console.log("Usage: not present in response body");
-    }
+    // Print usage data
+    console.log("Usage:", (response as any).body?.usage);
 }
 
 main().catch((err) => {
