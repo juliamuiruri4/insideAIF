@@ -1,0 +1,26 @@
+{
+  "name": "model-router-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript sample for Model Router using Azure AI Inference SDK",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx model-router.ts",
+    "start:multiturn": "tsx model-router-multiturn.ts"
+  },
+  "keywords": [],
+  "author": "juliamuiruri4",
+  "license": "ISC",
+  "packageManager": "pnpm@10.19.0",
+  "dependencies": {
+    "@azure-rest/ai-inference": "1.0.0-beta.6",
+    "@azure/core-auth": "^1.10.1",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
