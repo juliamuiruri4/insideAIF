@@ -1,6 +1,6 @@
 # Azure AI Translator API (Public Preview)
 
-![Azure AI Translator API](../../Images/thumbnail-translator-API.png)
+![Azure AI Translator API](/Images/thumbnail-translator-API.png)
 
 The Azure AI Foundry Translator API (Public Preview) enables you to translate text leveraging neural machine translation (NMT) or large language model translation (LLM). In this episode, April shows you how to translate a conversation between an English speaking customer support agent and a French speaking customer, accommodating for both tone and gender.
 

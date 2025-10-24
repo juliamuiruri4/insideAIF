@@ -1,6 +1,6 @@
 # Model Router
 
-![Model Router](../../Images/thumbnail-model-router.png)
+![Model Router](/Images/thumbnail-model-router.png)
 
 The Model Router just leveled up with the latest GPT-5 models — and it’s ready to take your AI projects further. In this episode, April pulls back the curtain on how it works, then walks you through using it to pick the right model for any task. From building intelligent agents to optimizing performance and costs, you’ll see the full process in action.
 
