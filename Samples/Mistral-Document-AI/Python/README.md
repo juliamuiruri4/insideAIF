@@ -1,6 +1,6 @@
 # Mistral Document AI
 
-![Mistral Document AI](../../Images/thumbnail-mistral-document-AI.png)
+![Mistral Document AI](/Images/thumbnail-mistral-document-AI.png)
 
 The future of document intelligence is here with Mistral Document AI in Azure AI Foundry. In this episode, April shows you how the model parses complex layouts from PDFs and handwritten notes. You’ll also see how the model’s structured JSON output makes it possible to integrate with databases, AI agents, and RAG workflows—turning unstructured documents into actionable data.
 
@@ -16,7 +16,7 @@ Learn more about Mistral Document AI: [aka.ms/insideAIF/mistral-document-AI](htt
 
 ### Document AI with base64 PDF
 
-1. Navigate to the folder: `cd Samples/Mistral-Document-AI`
+1. Navigate to the folder: `cd Samples/Mistral-Document-AI/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. Put your PDF file in the same directory and replace `"your_document.pdf"` with the file name.
@@ -26,7 +26,7 @@ Learn more about Mistral Document AI: [aka.ms/insideAIF/mistral-document-AI](htt
 
 ### Document AI with base64 PDF via a web-app
 
-1. Navigate to the folder: `cd Samples/Mistral-Document-AI`
+1. Navigate to the folder: `cd Samples/Mistral-Document-AI/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. Run the command: `streamlit run app.py`
@@ -34,7 +34,7 @@ Learn more about Mistral Document AI: [aka.ms/insideAIF/mistral-document-AI](htt
 
 ### Document AI with base64 image
 
-1. Navigate to the folder: `cd Samples/Mistral-Document-AI`
+1. Navigate to the folder: `cd Samples/Mistral-Document-AI/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. Put your image file in the same directory and replace `"your_image.jpg"` with the file name.

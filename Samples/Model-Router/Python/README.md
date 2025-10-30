@@ -17,14 +17,14 @@ Learn more about Model Router: [aka.ms/insideAIF/model-router](https://aka.ms/in
 
 ### Basic call to the chat completion API
 
-1. Navigate to the folder: `cd Samples/Model-Router`
+1. Navigate to the folder: `cd Samples/Model-Router/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. Run the script: `python model-router.py`
 
 ### Multi-turn conversation
 
-1. Navigate to the folder: `cd Samples/Model-Router`
+1. Navigate to the folder: `cd Samples/Model-Router/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. Run the script: `python model-router-multiturn.py`

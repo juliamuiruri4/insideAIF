@@ -18,14 +18,14 @@ Configure your Azure AI Foundry resource: [aka.ms/insideAIF/configure-Azure-reso
 
 ### Basic Neural Machine Translation
 
-1. Navigate to the folder: `cd Samples/Translator-API`
+1. Navigate to the folder: `cd Samples/Translator-API/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. Run the script: `python translation-nmt.py`
 
 ### Basic Large Language Model Translation
 
-1. Navigate to the folder: `cd Samples/Translator-API`
+1. Navigate to the folder: `cd Samples/Translator-API/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. In the `translate_text` function call, replace `your-gpt-model-deployment` with your model deployment name.
@@ -33,7 +33,7 @@ Configure your Azure AI Foundry resource: [aka.ms/insideAIF/configure-Azure-reso
 
 ### LLM Translation with Tone
 
-1. Navigate to the folder: `cd Samples/Translator-API`
+1. Navigate to the folder: `cd Samples/Translator-API/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. In the `translate_text` function call, replace `your-gpt-model-deployment` with your model deployment name.
@@ -41,7 +41,7 @@ Configure your Azure AI Foundry resource: [aka.ms/insideAIF/configure-Azure-reso
 
 ### LLM Translation with Gender
 
-1. Navigate to the folder: `cd Samples/Translator-API`
+1. Navigate to the folder: `cd Samples/Translator-API/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. In the `translate_text` function call, replace `your-gpt-model-deployment` with your model deployment name.
@@ -49,7 +49,7 @@ Configure your Azure AI Foundry resource: [aka.ms/insideAIF/configure-Azure-reso
 
 ### NMT and LLM Translation with Multiple Languages
 
-1. Navigate to the folder: `cd Samples/Translator-API`
+1. Navigate to the folder: `cd Samples/Translator-API/Python`
 1. Install dependencies: `pip install -r requirements.txt`
 1. Set up environment variables: `copy .env.example .env`
 1. In the `targets` list, replace `your-gpt-model-deployment` with your model deployment name.
