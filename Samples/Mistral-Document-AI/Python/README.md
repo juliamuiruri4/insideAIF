@@ -6,7 +6,7 @@ The future of document intelligence is here with Mistral Document AI in Azure AI
 
 Try it yourself in Azure AI Foundry and start parsing documents and images: [ai.azure.com](https://ai.azure.com)
 
-Learn more about Mistral Document AI: [aka.ms/insideAIF/mistral-document-AI](https://aka.ms/insideAIF/mistral-docuemnt-AI)
+Learn more about Mistral Document AI: [aka.ms/insideAIF/mistral-document-AI](https://aka.ms/insideAIF/mistral-document-AI)
 
 ## Prerequisites
 
