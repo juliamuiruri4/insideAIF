@@ -1,10 +1,10 @@
-# Inside Azure AI Foundry Samples
+# Inside Microsoft Foundry Samples
 
-![Inside Azure AI Foundry playlist image.](Images/thumbnail-playlist.png)
+![Inside Microsoft Foundry playlist image.](Images/thumbnail-playlist.png)
 
-Check out what's new in [Azure AI Foundry](https://ai.azure.com)! In this [video series](https://aka.ms/insideAIF), we dive deep into the latest AI models, tools, and platform features — with practical demos and technical walkthroughs that show you how to integrate them into your workflows. Perfect for developers who want to see capabilities in action before deploying them in real projects.
+Check out what's new in [Microsoft Foundry](https://ai.azure.com)! In this [video series](https://aka.ms/insideMF), we dive deep into the latest AI models, tools, and platform features — with practical demos and technical walkthroughs that show you how to integrate them into your workflows. Perfect for developers who want to see capabilities in action before deploying them in real projects.
 
-You can watch all episodes at [aka.ms/insideAIF](https://aka.ms/insideAIF)!
+You can watch all episodes at [aka.ms/insideMF](https://aka.ms/insideMF)!
 
 ## Episodes
 
