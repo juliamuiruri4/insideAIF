@@ -17,6 +17,10 @@ You can watch all episodes at [aka.ms/insideMF](https://aka.ms/insideMF)!
 | Azure Translator API (Public Preview) | [Watch Video](https://youtu.be/Xam_QQnb5wQ?si=J91ad6ZMSjp48J2S) | [View Sample](./Samples/Translator-API) | [Watch Episode](https://www.youtube.com/watch?v=gEH2ACNf5b0&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=1) |
 | Foundry Models with GitHub Copilot | [Watch Video](https://youtu.be/pG6d6Wwl9gU) |  | [Watch Episode](https://www.youtube.com/watch?v=BANtEq-0FsE&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=1) |
 | Create an AI Agent with File Search in Microsoft Foundry (Portal) | [Watch Video](https://youtu.be/dBu3il7db0o?si=4H64cGhEz0KDqp_7) |[View Sample](./Samples/Create-Agent)  |  |
+| Explore the new Microsoft Foundry portal | [Watch Video](https://youtu.be/BpOAxKzvrPA) |  |  |
+| Deploy and compare models in Microsoft Foundry | [Watch Video](https://youtu.be/zPvEYmj8Mi4) | |  |
+| Chat with a deployed Microsoft Foundry model (Python) | [Watch Video](https://youtu.be/ix0kJMVI0tk) |[View Sample](./Samples/Chat-With-Model)  |  |
+| Create an Agent with Microsoft Foundry models (Python) | [Watch Video](https://youtu.be/fUuTvoDPyzo) |[View Sample](./Samples/Create-Agent)  |  |
 
 ## Discord
 
